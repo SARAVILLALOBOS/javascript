@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(167, 190, 232);
+    color: rgb(239, 68, 159);
+}
+.nom{
+    background-color: rgb(142, 235, 235);
+    color: rgb(238, 150, 91);
+    font-size: 30px;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
